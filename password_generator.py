@@ -12,7 +12,7 @@ import english_words
 
 class PasswordGenerator(QWidget):
 	def __init__(self, parent=None):
-		super(PasswordGenerator, self).__init__(parent=parent)  # these values change where the main window is placed
+		super(PasswordGenerator, self).__init__(parent=parent)
 		self.title = 'Password Generator'
 		self.width = 295
 		self.height = 140
