@@ -1,10 +1,7 @@
 # michael.bangham3@gmail.com
 # Create Random passwords for encryption
-import hashlib
 from random import randrange, choice
-import os, string, hashlib
-import sys
-import pyperclip
+import os, sys, string, hashlib, pyperclip
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QLabel, QComboBox
 from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import pyqtSlot
