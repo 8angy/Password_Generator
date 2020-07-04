@@ -1,4 +1,4 @@
-# michael.bangham3@gmail.com
+# Contact: michael[.d0t.]bangham3[.at.]gmail.com
 # Create Random passwords for encryption
 from random import randrange, choice
 import os, sys, string, hashlib, pyperclip
